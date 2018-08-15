@@ -11,7 +11,7 @@ module.exports = {
   // 'appKey': 'SWCzyc20161021SWCzyc20161021aaaa',
   // 'domainHost': 'http://ymymmall.swczyc.com',
 
-  'appId': 'wx6d6fd71af24c22c3',
-  'appSecret': '0094e566a880a093082b7e805f5b1c71',
+  'appId': 'wxc636210b469ce7dc',
+  'appSecret': 'Ir6A4M8XOF1j6CAv0zBUzpTl2H2QrxFCjuM2oikOZAP',
   'domainHost': 'http://ymymmall.lvxingbox.cn',
 };
