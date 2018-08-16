@@ -13,6 +13,6 @@ module.exports = {
   // 'domainHost': 'http://ymymmall.swczyc.com',
 
   'appId': 'wxc636210b469ce7dc',
-  'appSecret': 'Ir6A4M8XOF1j6CAv0zBUzpTl2H2QrxFCjuM2oikOZAP',
+  'appSecret': 'fc785c46f24105fa3a883e64a01fe2e9',
   'domainHost': 'http://ymymmall.lvxingbox.cn',
 };
