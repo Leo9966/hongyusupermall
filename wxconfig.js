@@ -4,7 +4,8 @@ module.exports = {
   'encodingAESKey': 'PNuRoIzJBEWYCOR96Zrxe0h1bZCOACEkY9b0gQDeDms',
  
   
-  'secondaryHost': 'http://ymymmall.swczyc.com/ver',
+  // 'secondaryHost': 'http://ymymmall.swczyc.com/ver',
+  'secondaryHost': 'http://ymymmall.lvxingbox.cn/ver',
 
   // 'appId': 'wx6d6fd71af24c22c3',
   // 'appSecret': '0094e566a880a093082b7e805f5b1c71',
