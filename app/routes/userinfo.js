@@ -47,7 +47,7 @@ router.get('/', function (req, res) {
   // var host = config.secondaryHost;
   //重定向后会带上state参数，开发者可以填写a-zA-Z0-9的参数值，最多128字节
   var redirect_uri = 'https://open.weixin.qq.com/connect/oauth2/authorize?appid='+config.appId+'&redirect_uri='+host+'&response_type=code&scope=snsapi_userinfo&state=STATE#wechat_redirect';
-  console.log('info_req',req)
+
   console.log('info_req_code',req.query.code)
   if (!req.query.code) {
     var encodeParams = encodeURIComponent(req.originalUrl);
